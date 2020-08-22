@@ -14,7 +14,6 @@ import java.util.Random;
  * If there are no zombies within a human's (limited) sight (or if there are no zombies existing at all) 
  * then the human will move around randomly.
  * 
- * If a human (or zombie)
  * 
  * @author MYWT August 2020
  */
