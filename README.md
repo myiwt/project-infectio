@@ -2,4 +2,4 @@
 
 This simulation is created using multithreading, listeners, distance vectors and direction vectors and is written in Java.
 
-![](https://gitlab.com/spacecatbug/human-zombie-simulator/-/raw/master/Demo.gif)
+![link to demo video](https://gitlab.com/spacecatbug/human-zombie-simulator/-/raw/master/Demo.gif)
