@@ -1,5 +1,5 @@
-# Human Zombie Simulator
+# Project Infectio
 
-An exercise in data algorithms that uses multiple threading to run the simulation, written in Java.
+This simulation is created using multithreading, listeners, distance vectors and direction vectors and is written in Java.
 
 ![](https://gitlab.com/spacecatbug/human-zombie-simulator/-/raw/master/Demo.gif)
