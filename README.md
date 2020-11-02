@@ -1,6 +1,6 @@
 # Project Infectio
 
-I've created this simulation using multithreading, listeners, distance vectors and direction vectors.
+I've created this simulation using multithreading, event listeners, distance vectors and direction vectors.
 
 ![link to demo video](https://gitlab.com/spacecatbug/human-zombie-simulator/-/raw/master/Demo.gif)
 
